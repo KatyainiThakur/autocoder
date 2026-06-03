@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+
+
+# Virtual environments
+.env
+.venv
+.vscode
+*.db
+
+.env
+
+results/

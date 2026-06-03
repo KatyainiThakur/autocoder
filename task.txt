@@ -1,0 +1,30 @@
+Task:
+Summarize the file
+
+Input:
+filename.py
+
+Output:
+txt
+
+Run:
+No
+
+Task:
+Write an addition code file
+
+
+Output:
+py
+
+Run:
+Yes
+
+Task:
+Correct the code
+
+Input:
+sample.py
+
+Run:
+Yes
