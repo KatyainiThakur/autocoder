@@ -3,7 +3,7 @@ __pycache__/
 *.py[oc]
 
 
-# Virtual environments
+# Virtual environments to be ignored
 .env
 .venv
 .vscode
