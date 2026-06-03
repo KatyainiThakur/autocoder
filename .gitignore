@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+data/
+*.egg-info
+service_account.json
+gcp-credentials.json
+
+# Virtual environments
+.env
+.venv
+.vscode
+*.db
+
+.env
+
+results/
